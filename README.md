@@ -66,11 +66,6 @@ Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou à
 
 Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
-## 🎨 Crédits
-
-- Sprites : [Spritesheet Walk.png]
-- Concept et développement : [Votre nom]
-
 ## 🔮 Perspectives
 
 Ce projet est une plateforme d'expérimentation philosophique en constante évolution. Les futures mises à jour pourront inclure :
